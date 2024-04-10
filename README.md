@@ -1,2 +1,2 @@
 # craftingInterpreters
-Following Crafint Interpreters book.
+Following Crafint Interpreters by Robert Nystrom.
